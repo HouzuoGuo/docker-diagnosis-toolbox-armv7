@@ -1,4 +1,4 @@
-# docker-diagnosis-toolbox
+# docker-diagnosis-toolbox-armv7
 
 Build a Docker image based on Alpine Linux with extra networking diagnosis utilities, such as curl, lftp, telnet, nmap, wget, and a lot more.
 
