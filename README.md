@@ -1,6 +1,6 @@
 # docker-diagnosis-toolbox-armv7
 
-Build a Docker image based on Alpine Linux with extra networking diagnosis utilities, such as curl, lftp, telnet, nmap, wget, and a lot more.
+Build a Docker image based on Ubuntu Linux with extra utilities for system and network diagnosis, such as curl, lftp, telnet, nmap, wget, and many more.
 
 Ready-to-use images are available from: https://hub.docker.com/r/hzgl/diagnosis-toolbox-armv7
 
